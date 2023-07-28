@@ -1,0 +1,8 @@
+D:\Phase-1\Assisted Projects\Singly Linked Lists\Singly Linked Lists\Singly Linked Lists\bin\Debug\Singly Linked Lists.exe.config
+D:\Phase-1\Assisted Projects\Singly Linked Lists\Singly Linked Lists\Singly Linked Lists\bin\Debug\Singly Linked Lists.exe
+D:\Phase-1\Assisted Projects\Singly Linked Lists\Singly Linked Lists\Singly Linked Lists\bin\Debug\Singly Linked Lists.pdb
+D:\Phase-1\Assisted Projects\Singly Linked Lists\Singly Linked Lists\Singly Linked Lists\obj\Debug\Singly Linked Lists.csproj.AssemblyReference.cache
+D:\Phase-1\Assisted Projects\Singly Linked Lists\Singly Linked Lists\Singly Linked Lists\obj\Debug\Singly Linked Lists.csproj.SuggestedBindingRedirects.cache
+D:\Phase-1\Assisted Projects\Singly Linked Lists\Singly Linked Lists\Singly Linked Lists\obj\Debug\Singly Linked Lists.csproj.CoreCompileInputs.cache
+D:\Phase-1\Assisted Projects\Singly Linked Lists\Singly Linked Lists\Singly Linked Lists\obj\Debug\Singly Linked Lists.exe
+D:\Phase-1\Assisted Projects\Singly Linked Lists\Singly Linked Lists\Singly Linked Lists\obj\Debug\Singly Linked Lists.pdb

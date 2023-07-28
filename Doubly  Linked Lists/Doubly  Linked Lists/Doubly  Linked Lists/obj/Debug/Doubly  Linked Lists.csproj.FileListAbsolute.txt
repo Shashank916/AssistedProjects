@@ -1,0 +1,8 @@
+D:\Phase-1\Assisted Projects\Doubly  Linked Lists\Doubly  Linked Lists\Doubly  Linked Lists\bin\Debug\Doubly  Linked Lists.exe.config
+D:\Phase-1\Assisted Projects\Doubly  Linked Lists\Doubly  Linked Lists\Doubly  Linked Lists\bin\Debug\Doubly  Linked Lists.exe
+D:\Phase-1\Assisted Projects\Doubly  Linked Lists\Doubly  Linked Lists\Doubly  Linked Lists\bin\Debug\Doubly  Linked Lists.pdb
+D:\Phase-1\Assisted Projects\Doubly  Linked Lists\Doubly  Linked Lists\Doubly  Linked Lists\obj\Debug\Doubly  Linked Lists.csproj.AssemblyReference.cache
+D:\Phase-1\Assisted Projects\Doubly  Linked Lists\Doubly  Linked Lists\Doubly  Linked Lists\obj\Debug\Doubly  Linked Lists.csproj.SuggestedBindingRedirects.cache
+D:\Phase-1\Assisted Projects\Doubly  Linked Lists\Doubly  Linked Lists\Doubly  Linked Lists\obj\Debug\Doubly  Linked Lists.csproj.CoreCompileInputs.cache
+D:\Phase-1\Assisted Projects\Doubly  Linked Lists\Doubly  Linked Lists\Doubly  Linked Lists\obj\Debug\Doubly  Linked Lists.exe
+D:\Phase-1\Assisted Projects\Doubly  Linked Lists\Doubly  Linked Lists\Doubly  Linked Lists\obj\Debug\Doubly  Linked Lists.pdb

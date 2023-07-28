@@ -1,0 +1,8 @@
+D:\Phase-1\Assisted Projects\Quick  Sort\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+D:\Phase-1\Assisted Projects\Quick  Sort\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+D:\Phase-1\Assisted Projects\Quick  Sort\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+D:\Phase-1\Assisted Projects\Quick  Sort\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.AssemblyReference.cache
+D:\Phase-1\Assisted Projects\Quick  Sort\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.SuggestedBindingRedirects.cache
+D:\Phase-1\Assisted Projects\Quick  Sort\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+D:\Phase-1\Assisted Projects\Quick  Sort\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+D:\Phase-1\Assisted Projects\Quick  Sort\QuickSort\QuickSort\obj\Debug\QuickSort.pdb

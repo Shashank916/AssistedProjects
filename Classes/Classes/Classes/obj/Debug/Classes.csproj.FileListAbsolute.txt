@@ -1,0 +1,8 @@
+D:\Phase-1\Assisted Projects\Classes\Classes\Classes\bin\Debug\Classes.exe.config
+D:\Phase-1\Assisted Projects\Classes\Classes\Classes\bin\Debug\Classes.exe
+D:\Phase-1\Assisted Projects\Classes\Classes\Classes\bin\Debug\Classes.pdb
+D:\Phase-1\Assisted Projects\Classes\Classes\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+D:\Phase-1\Assisted Projects\Classes\Classes\Classes\obj\Debug\Classes.csproj.SuggestedBindingRedirects.cache
+D:\Phase-1\Assisted Projects\Classes\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+D:\Phase-1\Assisted Projects\Classes\Classes\Classes\obj\Debug\Classes.exe
+D:\Phase-1\Assisted Projects\Classes\Classes\Classes\obj\Debug\Classes.pdb

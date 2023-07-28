@@ -1,0 +1,8 @@
+D:\Phase-1\Assisted Projects\Selection  Sort\Selection  Sort\Selection  Sort\bin\Debug\Selection  Sort.exe.config
+D:\Phase-1\Assisted Projects\Selection  Sort\Selection  Sort\Selection  Sort\bin\Debug\Selection  Sort.exe
+D:\Phase-1\Assisted Projects\Selection  Sort\Selection  Sort\Selection  Sort\bin\Debug\Selection  Sort.pdb
+D:\Phase-1\Assisted Projects\Selection  Sort\Selection  Sort\Selection  Sort\obj\Debug\Selection  Sort.csproj.AssemblyReference.cache
+D:\Phase-1\Assisted Projects\Selection  Sort\Selection  Sort\Selection  Sort\obj\Debug\Selection  Sort.csproj.SuggestedBindingRedirects.cache
+D:\Phase-1\Assisted Projects\Selection  Sort\Selection  Sort\Selection  Sort\obj\Debug\Selection  Sort.csproj.CoreCompileInputs.cache
+D:\Phase-1\Assisted Projects\Selection  Sort\Selection  Sort\Selection  Sort\obj\Debug\Selection  Sort.exe
+D:\Phase-1\Assisted Projects\Selection  Sort\Selection  Sort\Selection  Sort\obj\Debug\Selection  Sort.pdb

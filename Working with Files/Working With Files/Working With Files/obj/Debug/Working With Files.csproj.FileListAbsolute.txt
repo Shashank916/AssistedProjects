@@ -1,0 +1,8 @@
+D:\Phase-1\Assisted Projects\Working with Files\Working With Files\Working With Files\bin\Debug\Working With Files.exe.config
+D:\Phase-1\Assisted Projects\Working with Files\Working With Files\Working With Files\bin\Debug\Working With Files.exe
+D:\Phase-1\Assisted Projects\Working with Files\Working With Files\Working With Files\bin\Debug\Working With Files.pdb
+D:\Phase-1\Assisted Projects\Working with Files\Working With Files\Working With Files\obj\Debug\Working With Files.csproj.AssemblyReference.cache
+D:\Phase-1\Assisted Projects\Working with Files\Working With Files\Working With Files\obj\Debug\Working With Files.csproj.SuggestedBindingRedirects.cache
+D:\Phase-1\Assisted Projects\Working with Files\Working With Files\Working With Files\obj\Debug\Working With Files.csproj.CoreCompileInputs.cache
+D:\Phase-1\Assisted Projects\Working with Files\Working With Files\Working With Files\obj\Debug\Working With Files.exe
+D:\Phase-1\Assisted Projects\Working with Files\Working With Files\Working With Files\obj\Debug\Working With Files.pdb

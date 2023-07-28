@@ -1,0 +1,8 @@
+D:\Phase-1\Assisted Projects\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+D:\Phase-1\Assisted Projects\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\Phase-1\Assisted Projects\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\Phase-1\Assisted Projects\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+D:\Phase-1\Assisted Projects\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+D:\Phase-1\Assisted Projects\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\Phase-1\Assisted Projects\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+D:\Phase-1\Assisted Projects\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

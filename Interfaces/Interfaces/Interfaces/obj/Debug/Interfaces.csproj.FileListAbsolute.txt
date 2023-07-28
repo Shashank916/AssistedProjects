@@ -1,0 +1,8 @@
+D:\Phase-1\Assisted Projects\Interfaces\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+D:\Phase-1\Assisted Projects\Interfaces\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+D:\Phase-1\Assisted Projects\Interfaces\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+D:\Phase-1\Assisted Projects\Interfaces\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+D:\Phase-1\Assisted Projects\Interfaces\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.SuggestedBindingRedirects.cache
+D:\Phase-1\Assisted Projects\Interfaces\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\Phase-1\Assisted Projects\Interfaces\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+D:\Phase-1\Assisted Projects\Interfaces\Interfaces\Interfaces\obj\Debug\Interfaces.pdb

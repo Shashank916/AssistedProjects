@@ -1,0 +1,8 @@
+D:\Phase-1\Assisted Projects\Bubble  Sort\Bubble  Sort\Bubble  Sort\bin\Debug\Bubble  Sort.exe.config
+D:\Phase-1\Assisted Projects\Bubble  Sort\Bubble  Sort\Bubble  Sort\bin\Debug\Bubble  Sort.exe
+D:\Phase-1\Assisted Projects\Bubble  Sort\Bubble  Sort\Bubble  Sort\bin\Debug\Bubble  Sort.pdb
+D:\Phase-1\Assisted Projects\Bubble  Sort\Bubble  Sort\Bubble  Sort\obj\Debug\Bubble  Sort.csproj.AssemblyReference.cache
+D:\Phase-1\Assisted Projects\Bubble  Sort\Bubble  Sort\Bubble  Sort\obj\Debug\Bubble  Sort.csproj.SuggestedBindingRedirects.cache
+D:\Phase-1\Assisted Projects\Bubble  Sort\Bubble  Sort\Bubble  Sort\obj\Debug\Bubble  Sort.csproj.CoreCompileInputs.cache
+D:\Phase-1\Assisted Projects\Bubble  Sort\Bubble  Sort\Bubble  Sort\obj\Debug\Bubble  Sort.exe
+D:\Phase-1\Assisted Projects\Bubble  Sort\Bubble  Sort\Bubble  Sort\obj\Debug\Bubble  Sort.pdb

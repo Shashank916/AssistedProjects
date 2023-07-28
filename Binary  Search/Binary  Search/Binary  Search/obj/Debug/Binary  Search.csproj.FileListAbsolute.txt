@@ -1,0 +1,8 @@
+D:\Phase-1\Assisted Projects\Binary  Search\Binary  Search\Binary  Search\bin\Debug\Binary  Search.exe.config
+D:\Phase-1\Assisted Projects\Binary  Search\Binary  Search\Binary  Search\bin\Debug\Binary  Search.exe
+D:\Phase-1\Assisted Projects\Binary  Search\Binary  Search\Binary  Search\bin\Debug\Binary  Search.pdb
+D:\Phase-1\Assisted Projects\Binary  Search\Binary  Search\Binary  Search\obj\Debug\Binary  Search.csproj.AssemblyReference.cache
+D:\Phase-1\Assisted Projects\Binary  Search\Binary  Search\Binary  Search\obj\Debug\Binary  Search.csproj.SuggestedBindingRedirects.cache
+D:\Phase-1\Assisted Projects\Binary  Search\Binary  Search\Binary  Search\obj\Debug\Binary  Search.csproj.CoreCompileInputs.cache
+D:\Phase-1\Assisted Projects\Binary  Search\Binary  Search\Binary  Search\obj\Debug\Binary  Search.exe
+D:\Phase-1\Assisted Projects\Binary  Search\Binary  Search\Binary  Search\obj\Debug\Binary  Search.pdb

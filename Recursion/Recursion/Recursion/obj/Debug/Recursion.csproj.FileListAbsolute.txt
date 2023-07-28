@@ -1,0 +1,8 @@
+D:\Phase-1\Assisted Projects\Recursion\Recursion\Recursion\bin\Debug\Recursion.exe.config
+D:\Phase-1\Assisted Projects\Recursion\Recursion\Recursion\bin\Debug\Recursion.exe
+D:\Phase-1\Assisted Projects\Recursion\Recursion\Recursion\bin\Debug\Recursion.pdb
+D:\Phase-1\Assisted Projects\Recursion\Recursion\Recursion\obj\Debug\Recursion.csproj.AssemblyReference.cache
+D:\Phase-1\Assisted Projects\Recursion\Recursion\Recursion\obj\Debug\Recursion.csproj.SuggestedBindingRedirects.cache
+D:\Phase-1\Assisted Projects\Recursion\Recursion\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+D:\Phase-1\Assisted Projects\Recursion\Recursion\Recursion\obj\Debug\Recursion.exe
+D:\Phase-1\Assisted Projects\Recursion\Recursion\Recursion\obj\Debug\Recursion.pdb

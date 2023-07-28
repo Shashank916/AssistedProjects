@@ -1,0 +1,8 @@
+D:\Phase-1\Assisted Projects\Shell  Sort\Shell  Sort\Shell  Sort\bin\Debug\Shell  Sort.exe.config
+D:\Phase-1\Assisted Projects\Shell  Sort\Shell  Sort\Shell  Sort\bin\Debug\Shell  Sort.exe
+D:\Phase-1\Assisted Projects\Shell  Sort\Shell  Sort\Shell  Sort\bin\Debug\Shell  Sort.pdb
+D:\Phase-1\Assisted Projects\Shell  Sort\Shell  Sort\Shell  Sort\obj\Debug\Shell  Sort.csproj.AssemblyReference.cache
+D:\Phase-1\Assisted Projects\Shell  Sort\Shell  Sort\Shell  Sort\obj\Debug\Shell  Sort.csproj.SuggestedBindingRedirects.cache
+D:\Phase-1\Assisted Projects\Shell  Sort\Shell  Sort\Shell  Sort\obj\Debug\Shell  Sort.csproj.CoreCompileInputs.cache
+D:\Phase-1\Assisted Projects\Shell  Sort\Shell  Sort\Shell  Sort\obj\Debug\Shell  Sort.exe
+D:\Phase-1\Assisted Projects\Shell  Sort\Shell  Sort\Shell  Sort\obj\Debug\Shell  Sort.pdb

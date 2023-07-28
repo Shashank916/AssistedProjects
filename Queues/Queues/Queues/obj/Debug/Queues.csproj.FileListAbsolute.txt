@@ -1,0 +1,8 @@
+D:\Phase-1\Assisted Projects\Queues\Queues\Queues\bin\Debug\Queues.exe.config
+D:\Phase-1\Assisted Projects\Queues\Queues\Queues\bin\Debug\Queues.exe
+D:\Phase-1\Assisted Projects\Queues\Queues\Queues\bin\Debug\Queues.pdb
+D:\Phase-1\Assisted Projects\Queues\Queues\Queues\obj\Debug\Queues.csproj.AssemblyReference.cache
+D:\Phase-1\Assisted Projects\Queues\Queues\Queues\obj\Debug\Queues.csproj.SuggestedBindingRedirects.cache
+D:\Phase-1\Assisted Projects\Queues\Queues\Queues\obj\Debug\Queues.csproj.CoreCompileInputs.cache
+D:\Phase-1\Assisted Projects\Queues\Queues\Queues\obj\Debug\Queues.exe
+D:\Phase-1\Assisted Projects\Queues\Queues\Queues\obj\Debug\Queues.pdb
